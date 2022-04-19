@@ -38,7 +38,7 @@ Digite un número para intentar adivinar el número secreto →: """))
     else:
         print(f"""FELICIDADES {nombre}! Su número {numero} es igual a el número secreto {numero_secreto}.
 Ganó el juego!\n""")
-    break
+         break
 
 else:
     print(f"Usted agotó todos sus intentos. GAME OVER. El número secreto era {numero_secreto} ")
