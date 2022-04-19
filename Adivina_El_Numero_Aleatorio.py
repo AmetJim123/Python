@@ -18,7 +18,7 @@ print(f"""Bienvenid@ {nombre} al juego de adivinar un número. Dispondrá de 8 i
 intentos = 0
 numero_secreto = randint(1, 100)
 
-while intentos <= 8:
+while intentos < 8:
 
     numero = int(input(f"""Bueno, este es su intento número {intentos}. 
 Digite un número para intentar adivinar el número secreto →: """))
