@@ -1,0 +1,14 @@
+{
+    "jugadores": [
+        {
+            "nombre" : "Kevin",
+            "apellido" : "Bonett",
+            "numero" : 7
+        },
+        {
+            "nombre" : "Ronaldo",
+            "apellido" : "Pardo",
+            "numero" : 10
+        }
+    ]
+}
