@@ -1,0 +1,14 @@
+Crear un objeto calculadora que tenga métodos:
+sumar y restar. Que guarde el historial de
+operaciones, que pueda ejecutar una operación
+del historial, que pueda usar los mismos valo-
+res o cambiarlos y que se pueda limpiar el
+historial o un elemento del historial
+
+
+
+
+
+
+
+
